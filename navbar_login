@@ -1,0 +1,153 @@
+<!DOCTYPE  html>
+<html lang='en'>
+
+<head>
+	<meta charset='utf-8'>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>praha's-project</title>
+	<link rel="stylesheet" type="text/css" href="navbar-stylesheet.css" >
+	<style>
+	.active{
+		background-color:pink;
+	}
+	
+
+
+	
+	</style>
+
+
+
+
+</head>
+<body>	
+	<div class='headr'>
+		<div class='nav'>
+			<div class='search'>
+				<table>
+					<tr>
+						<input type='search' placeholder='	Search...'/><button type='submit' name='Search' value='Search'>Search</button>
+					</tr>
+				</table>
+			</div>
+			
+			<div class='pages'>
+			
+				<div id='drpdwnmen'>
+				
+					<div id='drpdwn'>
+					
+						<div id='drpdwnbtn'>
+							<a href='#'>More&dharr;</a>
+						</div>
+						<div id='drpdwn-content'>
+							<a href='answeredqpage.php' style='font-size:0.8cm ; padding: 8px  30px  8px  46.5px; ' >Answered Q's</a>
+							<a href='unansweredqpage.php' style='font-size:0.8cm ; padding: 8px  30px  8px  17.9px; ' >Unanswered Q's</a>
+							<hr>
+							<a href='#' style='padding: 8px  1.5em  8px  100px;'>Account</a>
+							
+						</div>
+						
+					</div>
+				</div>
+                                                 
+				<a  href="trendingFAQ'spage.php">Your Questions</a>
+				<a href='homepage.php'>Home</a>
+		
+			</div>
+			
+		</div>
+
+	</div>
+
+
+
+</body>
+
+
+
+
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

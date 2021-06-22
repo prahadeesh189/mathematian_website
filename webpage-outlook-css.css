@@ -1,0 +1,44 @@
+	
+body{
+	margin:0;
+	background-image : url('form_bg.jpg');
+	background-size : 100% ;
+}
+
+.container{
+	width:20cm;
+	height:15em;
+	padding: .3cm .3cm .3cm;
+	background-color:#BFBFBF  ;
+	margin: 0.5cm auto 0;
+	border-radius:0.5cm;
+	overflow:hidden;
+	border : 1.5px solid gray ;
+	
+}
+
+.container .container_img{
+	width:30%;
+	height:99%;
+	background-color:white;
+
+	float:left;
+	border-radius:0.5cm 0 0 0.5cm;
+	overflow:hidden;
+	border: 2px solid black ;
+	
+}
+
+.container .container_dfn{
+	width:68.5%;
+	height:99%;
+	background-color:white;
+	float:right;
+	border-radius:0 0.5cm 0.5cm 0;
+	overflow:auto;
+	border: 2px solid black ;
+	
+}
+#container_image{
+	padding:0 auto 0;
+}
